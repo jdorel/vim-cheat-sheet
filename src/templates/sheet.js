@@ -56,6 +56,7 @@ export const query = graphql`
             title
             tip
             commands {
+              test
               h
               j
               k
